@@ -1,0 +1,11 @@
+/Users/josephbaugh/workspace/NSS/backEnd/1book/4chap/randomNumbers/bin/Debug/netcoreapp2.2/randomNumbers.deps.json
+/Users/josephbaugh/workspace/NSS/backEnd/1book/4chap/randomNumbers/bin/Debug/netcoreapp2.2/randomNumbers.runtimeconfig.json
+/Users/josephbaugh/workspace/NSS/backEnd/1book/4chap/randomNumbers/bin/Debug/netcoreapp2.2/randomNumbers.runtimeconfig.dev.json
+/Users/josephbaugh/workspace/NSS/backEnd/1book/4chap/randomNumbers/bin/Debug/netcoreapp2.2/randomNumbers.dll
+/Users/josephbaugh/workspace/NSS/backEnd/1book/4chap/randomNumbers/bin/Debug/netcoreapp2.2/randomNumbers.pdb
+/Users/josephbaugh/workspace/NSS/backEnd/1book/4chap/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.csprojAssemblyReference.cache
+/Users/josephbaugh/workspace/NSS/backEnd/1book/4chap/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.csproj.CoreCompileInputs.cache
+/Users/josephbaugh/workspace/NSS/backEnd/1book/4chap/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.AssemblyInfoInputs.cache
+/Users/josephbaugh/workspace/NSS/backEnd/1book/4chap/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.AssemblyInfo.cs
+/Users/josephbaugh/workspace/NSS/backEnd/1book/4chap/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.dll
+/Users/josephbaugh/workspace/NSS/backEnd/1book/4chap/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.pdb
